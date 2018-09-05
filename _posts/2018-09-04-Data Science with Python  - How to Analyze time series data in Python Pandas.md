@@ -1,9 +1,18 @@
 ---
 layout: post
-title:  "How to Analyze time series data in Python pandas"
+title:  Data Science with Python - How to Analyze time series data in pandas
+author: Harish Garg
 date:   2018-09-04 13:32:30 +0530
-categories: jekyll update
+categories: Python, DataScience
+tags: [Python, Pandas, Data Analysis, Data Science]
+published: true
 ---
+
+{% if post.tags.size > 0 %}
+  Tag{% if post.tags.size > 1 %}s{% endif %}:
+  {{ post.tags | sort | join: ", " }}
+{% endif %}
+
 ## Introduction
 
 In this article, we will explore how to analyze time series data with Python's Pandas Data Analysis library. 
