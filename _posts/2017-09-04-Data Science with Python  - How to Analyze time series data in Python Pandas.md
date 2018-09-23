@@ -2,7 +2,6 @@
 layout: post
 title:  Data Science with Python - How to Analyze time series data in pandas
 author: Harish Garg
-date:   2018-09-04 13:32:30 +0530
 categories: Python, DataScience
 tags: [Python, Pandas, Data Analysis, Data Science]
 published: true

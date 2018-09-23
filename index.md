@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: About
 ---
-
-# About BignumWorks
 
 BignumWorks Software LLP is a Software and Technical Training consultancy based out of Bangalore, India.
 

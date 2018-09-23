@@ -2,7 +2,6 @@
 layout: post
 title: Working with text files in Python
 author: Harish Garg
-date:   2018-09-08 13:32:30 +0530
 categories: Python
 tags: [Python]
 published: true

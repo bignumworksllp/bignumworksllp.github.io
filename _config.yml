@@ -16,8 +16,7 @@
 title: BignumWorks
 email: harish at bignumworks dot com
 description: >- # this means to ignore newlines until "baseurl:"
-  We at BignumWorks are working on creating some interesting projects and 
-  producing good quality technical learning content.
+  Copyright, 2018 - BignumWorks Software LLP
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: harishkgarg

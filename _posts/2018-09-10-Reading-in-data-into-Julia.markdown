@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Reading CSV Data into Julia"
-date:   2018-09-10 12:42:30 +0530
 categories: Julia, DataScience
 tags: [Julia, Data Analysis, Data Science]
 published: true
