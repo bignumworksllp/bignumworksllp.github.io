@@ -6,10 +6,10 @@ layout: page
 title: About
 ---
 
-BignumWorks Software LLP is a Software and Technical Training consultancy based out of Bangalore, India.
+BignumWorks Software LLP is a Software and Technical Training consultancy.
 
 We specialize in executing projects in latest technologies like Data Science, Machine Learning, Cloud Computing, Blockchain among others. We have delivered projects in domains areas like Healthcare, Education, Finance, Retail, etc.
 
 We also produce and provide Technical Training in technology areas like Data Science, Blockchain, Cloud Computing, R, Python, Julia, Unix, etc. We have multiple courses and books published that are available from the links above.
 
-Reech out to us @ harish at domainname for any project collaborations or queries.
+Reach out to us @ contact at domain name for any project collaborations or queries.
