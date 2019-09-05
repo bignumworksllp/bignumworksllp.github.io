@@ -2,7 +2,7 @@
 layout: post
 title: Getting started with Bitcoin Using Python
 author: Harish Garg
-categories: Python, Bitcoin
+categories: Bitcoin
 tags: [Python, Bitcoin]
 published: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Exploring and Analyzing National Rural Health Mission Data
 author: Harish Garg
-categories: Data Analysis
+categories: [Data Analysis]
 tags: [Python, Data Analysis]
 published: false
 ---

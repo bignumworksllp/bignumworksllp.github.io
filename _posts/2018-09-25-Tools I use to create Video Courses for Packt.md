@@ -2,7 +2,7 @@
 layout: post
 title: Tools I use to create video courses
 author: Harish Garg
-categories: Video 
+categories: [Content Creation]
 tags: [Video, How To]
 published: true
 ---

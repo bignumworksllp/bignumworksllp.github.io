@@ -2,7 +2,7 @@
 layout: post
 title: How to go from a Kaggle Novice to a Contributor in less then a day
 author: Harish Garg
-categories: Data Analysis
+categories: [Data Analysis]
 tags: [Data Analysis, Kaggle]
 published: true
 ---

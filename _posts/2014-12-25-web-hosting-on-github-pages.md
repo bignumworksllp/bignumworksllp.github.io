@@ -2,7 +2,7 @@
 layout: post
 title: Hosting your static website for free on Github Pages
 author: Harish Garg
-categories: github, Web Hosting
+categories: Github
 tags: [Github, Websites]
 published: true
 ---

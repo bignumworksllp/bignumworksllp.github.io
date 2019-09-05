@@ -2,7 +2,7 @@
 layout: post
 title: Data Science with Python - Import data into pandas
 author: Harish Garg
-categories: Python, DataScience
+categories: Pandas
 tags: [Python, Pandas, Data Analysis, Data Science]
 published: true
 ---

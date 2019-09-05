@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reading CSV Data into Julia"
-categories: Julia, DataScience
+categories: Julia
 tags: [Julia, Data Analysis, Data Science]
 published: true
 ---

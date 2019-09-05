@@ -2,7 +2,7 @@
 layout: post
 title: My Post on Using excel with pandas published on Dataquest.io
 author: Harish Garg
-categories: Data Analysis
+categories: Pandas
 tags: [Python, Data Analysis]
 published: true
 ---

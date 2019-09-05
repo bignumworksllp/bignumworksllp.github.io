@@ -2,7 +2,7 @@
 layout: post
 title: Analyzing India's Missing Kids Data 
 author: Harish Garg
-categories: Data Analysis
+categories: [Data Analysis]
 tags: [Data Analysis]
 published: true
 ---
